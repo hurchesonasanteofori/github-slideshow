@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our decond slide!"
+title: "Welcome to our second slide!"
 ---
-Your text
+This is quite wierd right?
 Use the left arrow to go back!
